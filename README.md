@@ -29,6 +29,7 @@ data-science-portfolio-liamstrang:.
 |   LICENSE
 |   Portfolio 1.ipynb
 │   Portfolio 2.ipynb
+|   Portfolio 3.ipynb
 |
 ├───files
 │   │   ABS_SEIFA_LGA.csv
@@ -39,6 +40,8 @@ data-science-portfolio-liamstrang:.
 |   |   Calga_TT_2019.gpx
 |   |   round1-redeemed_get_started_vouchers.csv
 |   |   sportsvouchersclaimed.csv
+|   |   MobileCustomerChurn.csv
+|   |   MobileChurnDataDictionary.csv
 ```     
 
 
