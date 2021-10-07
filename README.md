@@ -1,13 +1,16 @@
 <p align="center">
   <h3 align="center">COMP2200 - Portfolio's</h3>
   <p align="center">
-    These two portfolio's represent a data analysis on two different data sets.
+    These three portfolio's represent a data analysis on two different data sets.
   </p>
   <p align="center">
     Portfolio 1 is an analysis on GPS data from riding a bike. Comparing time trials to road races in both 2016 and 2019.
   </p>
   <p align="center">
     Portfolio 2 is an analysis on the Federal Government's sports voucher program. It analyses the differences between different suburbs and vouches amount of vouches redeemed.
+  </p>
+  <p align="center">
+    Portfolio 3 is an analysis on mobile customer churn. A churn is when a customer leaves a mobile phone provider. A logistic regression model is fitted to the data to try and predict when a customer will churn.
   </p>
 </p>
 
@@ -21,6 +24,7 @@ The following Python packages are required to view the analysis of each portfoli
 * `matplotlib`
 * `seaborn`
 * `gpxutils`
+* `sklearn`
 
 ### Portfolio Structure
 
